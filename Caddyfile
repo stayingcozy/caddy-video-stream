@@ -1,0 +1,5 @@
+YOUR_IP.nip.io {
+	handle /USER_ID* {
+		reverse_proxy http://MEDIA_SERVER_IP:PORT
+	}
+}
