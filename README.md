@@ -3,7 +3,7 @@
 </p>
 
 # caddy video stream
-Dead simple caddy reverse proxy setup to stream your videos (live or not) from your media server to your https website. Otherwise your https website will not allow your video to show due to improper encryption. [Caddy info](https://caddyserver.com/)
+Dead simple caddy reverse proxy setup to stream your videos from your media server to your https website. Otherwise your https website will not allow your video to show due to improper encryption. [Caddy info](https://caddyserver.com/)
 
 ### Caddyfile
 
