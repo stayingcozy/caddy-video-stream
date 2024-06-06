@@ -8,7 +8,7 @@ Dead simple caddy reverse proxy setup to stream your videos (live or not) from y
 ### Caddyfile
 
 Use [nip.io](http://nip.io) for a quick https web address. Each handle can be written per user with each video stream address for each stream.
-* When a new user is added just edit the caddy file and update the instance.
+* When a new user is added just edit the caddy file and update the instance with:
 
 ```
 caddy reload
